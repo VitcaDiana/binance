@@ -42,10 +42,6 @@ public class SymbolService {
     }
 
 
-
-
-
-
     public List<Symbol> addAllSymbols () throws JsonProcessingException {
         // la url de baza adaug locatia lat, lon, apykey dar cheia adaug in apl propert si adaug o constanta
 //        String url = UriComponentsBuilder
